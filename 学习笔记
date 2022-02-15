@@ -1,0 +1,37 @@
+1、 for_each 自我感觉比较适用于 内置函数
+
+2、 vector 返回元素索引
+    vector<int>::iteartor it = v1.begin()
+    auto index = std::distance(v1.begin() ,it)
+
+3、distance() 函数用于计算两个迭代器表示的范围内包含元素的个数
+
+4、回调函数：
+
+5、python 实现循环读取 xy1，xy2... xyn 可用exec(' 执行函数')%i
+    例：     for i in range(1,106):
+                exec('cone_x.append(xy%s[0])'%i)
+
+6、Eigne::map 用法：
+    Eigen中定义了一系列的vector和matrix，相比copy数据，更一般的方式是复用数据的内存，将它们转变为Eigen类型。
+    Map类很好地实现了这个功能
+
+    注意:Map没有默认的构造函数，你需要传递一个指针来初始化对象
+    实际上Map类并没有自己申请一片空内存，只是一个引用，所以需要构造时初始化，或者使用Map的指针。
+
+7、 转换数据类型：
+    静态转换 static_cast<data type>()
+    动态转换  (data type)
+
+8、 Eigen 索引和切片 eigen3.4
+        Eigen::seq Eigen::seqN
+
+9、 vscode 打开文件夹变英文了
+    crtl+shift+p display 重启；
+
+10、表达式必须含有常量值 
+    new
+
+11、 eigen矩阵索引为(), 向量索引为(),[],
+
+12 if compare  multi standard  && 

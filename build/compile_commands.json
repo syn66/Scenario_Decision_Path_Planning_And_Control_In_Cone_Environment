@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/test_delaunay.cpp.o -c /home/syn/毕业设计/路径规划/Project/test_delaunay.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/test_delaunay.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/Plotting/plotting.cpp.o -c /home/syn/毕业设计/路径规划/Project/Plotting/plotting.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/Plotting/plotting.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/roadmap/load_map.cpp.o -c /home/syn/毕业设计/路径规划/Project/roadmap/load_map.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/roadmap/load_map.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/scenario_decision/drive_enviroment.cpp.o -c /home/syn/毕业设计/路径规划/Project/scenario_decision/drive_enviroment.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/scenario_decision/drive_enviroment.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/scenario_decision/scenario_manager.cpp.o -c /home/syn/毕业设计/路径规划/Project/scenario_decision/scenario_manager.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/scenario_decision/scenario_manager.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/planning/lanekeep.cpp.o -c /home/syn/毕业设计/路径规划/Project/planning/lanekeep.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/planning/lanekeep.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/planning/delaunay_planner.cpp.o -c /home/syn/毕业设计/路径规划/Project/planning/delaunay_planner.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/planning/delaunay_planner.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/planning/quintic_polynomial.cpp.o -c /home/syn/毕业设计/路径规划/Project/planning/quintic_polynomial.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/planning/quintic_polynomial.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/planning/bezier.cpp.o -c /home/syn/毕业设计/路径规划/Project/planning/bezier.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/planning/bezier.cpp"
+},
+{
+  "directory": "/home/syn/毕业设计/路径规划/Project/build",
+  "command": "/bin/g++-9  -DBOOST_ALL_NO_LIB -DCGAL_USE_CORE=1 -I/home/syn/毕业设计/路径规划/Project/. -I/home/syn/毕业设计/路径规划/Project/External/matplotlib -I/home/syn/毕业设计/路径规划/Project/External/Json/include -I/home/syn/毕业设计/路径规划/Project/External/spline -I/usr/include/python3.8  -O2 -g   -frounding-math -std=gnu++14 -o CMakeFiles/test_delaunay.dir/utils.cpp.o -c /home/syn/毕业设计/路径规划/Project/utils.cpp",
+  "file": "/home/syn/毕业设计/路径规划/Project/utils.cpp"
+}
+]
